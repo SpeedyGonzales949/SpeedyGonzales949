@@ -4,14 +4,21 @@
 <h3 align="center"> A passioante deep learning engineer from Romania 🇷🇴</h3>
 </br>
 
-<div align="center">
+<div align="left">
     
- 🎓 I'm studying Data Science at **Vienna University of Technology** </br>
- 🔭 I’m working on **benchmarking image feature extractors** </br>
- 🌱 I’m learning **Point Cloud Processing Methods** </br>
+ - 🎓 I'm studying Data Science at **Vienna University of Technology** </br>
+ - 🔭 I’m working on **benchmarking image feature extractors** </br>
+ - 🌱 I’m learning **Point Cloud Processing Methods** </br>
+ 
 </div>
 </br>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,linux,vscode"/>
+</div>
 
 <h3 align="center">📎 Connect with me:</h3>
 <div align="center">
