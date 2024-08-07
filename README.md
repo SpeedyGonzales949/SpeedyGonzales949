@@ -2,9 +2,6 @@
 I'm Mihnea! 🌟 Inquisitive and passionate about deep learning. Let's connect! 🚀 #DLFanatic
 
 
----
-
-## 📈 GitHub Stats
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -16,5 +13,3 @@ I'm Mihnea! 🌟 Inquisitive and passionate about deep learning. Let's connect! 
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SpeedyGonzales949&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-
----
