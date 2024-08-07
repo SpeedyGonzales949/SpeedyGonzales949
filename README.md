@@ -17,7 +17,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,bash" /><br>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,linux,vscode"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,linux,vscode"/>
 </div>
 
 <h3 align="center">📎 Connect with me:</h3>
