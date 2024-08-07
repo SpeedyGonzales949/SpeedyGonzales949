@@ -1,18 +1,29 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SpeedyGonzales949&label=Profile%20views&color=0e75b6&style=flat" alt="SpeedyGonzales949" /> </p>
 
 <h1 align="center"> Hi, 👋! I'm Mihnea!</h1>
-<h3 align="center">Inquisitive and passionate about deep learning. Let's connect! 🚀</h3>
+<h3 align="center"> A passioante deep learning engineer from Romania 🇷🇴</h3>
+</br>
 
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,bash" /><br>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,linux,vscode"/>
-
-
+    
+ 🎓 I'm studying Data Science at **Vienna University of Technology** </br>
+ 🔭 I’m working on **benchmarking image feature extractors** </br>
+ 🌱 I’m learning **Point Cloud Processing Methods** </br>
 </div>
+</br>
 
+
+<h3 align="center">📎 Connect with me:</h3>
+<div align="center">
+  <a href="mailto:mihneaaleman@yahoo.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/mihnea-aleman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+    
+  </a>
+</div>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
