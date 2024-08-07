@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SpeedyGonzales949&label=Profile%20views&color=0e75b6&style=flat" alt="SpeedyGonzales949" /> </p>
+
 <h1 align="center"> Hi, 👋! I'm Mihnea!</h1>
 
 <h2 align="center">⚡ Stats ⚡</h2>
