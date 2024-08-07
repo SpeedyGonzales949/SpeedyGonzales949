@@ -1,4 +1,4 @@
-![MasterHead](https://www.kialo.com/images/ae676079-26ee-4c06-b926-ef8d5943fa7a_444x144.jpeg)  
+![MasterHead](https://whsgoldenarrow.com/wp-content/uploads/2023/10/Screenshot-2023-10-24-at-8.42.51-AM.png)  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SpeedyGonzales949&label=Profile%20views&color=0e75b6&style=flat" alt="SpeedyGonzales949" /> </p>
 
 <h1 align="center"> Hi, 👋! I'm Mihnea!</h1>
