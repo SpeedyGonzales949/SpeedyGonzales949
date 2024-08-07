@@ -1,7 +1,17 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SpeedyGonzales949&label=Profile%20views&color=0e75b6&style=flat" alt="SpeedyGonzales949" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SpeedyGonzales949&label=Profile%20views&color=0e75b6&style=flat" alt="SpeedyGonzales949" /> </p>
 
 <h1 align="center"> Hi, 👋! I'm Mihnea!</h1>
 <h3 align="center">Inquisitive and passionate about deep learning. Let's connect! 🚀</h3>
+
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,linux,vscode"/>
+
+
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
