@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/machine-learning-banner-artificial-intelligence_107791-611.jpg?t=st=1723068043~exp=1723071643~hmac=f218a4d22645c222faf684d576a1c406887b8446434459361dbd67c4ff8a2d79&w=1480)
+![MasterHead](https://www.kialo.com/images/ae676079-26ee-4c06-b926-ef8d5943fa7a_444x144.jpeg)  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SpeedyGonzales949&label=Profile%20views&color=0e75b6&style=flat" alt="SpeedyGonzales949" /> </p>
 
 <h1 align="center"> Hi, 👋! I'm Mihnea!</h1>
