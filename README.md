@@ -1,6 +1,7 @@
 <h1 align="center"> Hi, 👋! I'm Mihnea!</h1>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">Inquisitive and passionate about deep learning. Let's connect! 🚀</h3>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SpeedyGonzales949&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
