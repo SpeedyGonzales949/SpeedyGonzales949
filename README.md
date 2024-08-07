@@ -1,8 +1,6 @@
 ## Hi there 👋
-I'm Mihnea! 🌟 Inquisitive and passionate about deep learning. Let's connect! 🚀 #DLFanatic
 
-
-
+<h1 align="center"> Hi, 👋! I'm Mihnea!</h1>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
