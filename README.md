@@ -1,4 +1,4 @@
-![MasterHead](./banner_dark.png##gh-dark-mode-only)  
+![MasterHead](./banner_dark-removebg.png##gh-dark-mode-only)  
 ![MasterHead](./banner.png##gh-light-mode-only)  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SpeedyGonzales949&label=Profile%20views&color=0e75b6&style=flat" alt="SpeedyGonzales949 id="image" /> </p>
