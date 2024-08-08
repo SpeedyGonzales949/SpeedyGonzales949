@@ -35,12 +35,7 @@
 </div>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center stype="margin:0;box-sizing:border-box;">
+<div align="center" style="margin:0;box-sizing:border-box;">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=SpeedyGonzales949&rank_icon=github&show_icons=True&include_all_commits=True&theme=transparent"/>
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeedyGonzales949&hide=html,hack,css,php&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=transparent"/>
 </div>
-<style>
-.image{
-    }
-</style>
-
