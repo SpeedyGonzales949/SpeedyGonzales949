@@ -18,8 +18,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,bash" /><br>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,git,linux,vscode"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,bash,pytorch,tensorflow,sklearn,opencv,git,linux,vscode" /><br>
 </div>
 
 <h2 align="center">📎 Connect with me:</h2>
